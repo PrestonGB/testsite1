@@ -1,6 +1,7 @@
 body {
   background-color: black;
   color: white;
+  margin-top: 0px;
 }
 
 header {
@@ -33,4 +34,56 @@ header a {
 #dopepics {
   padding-top: 100px;
   text-align: center;
+  border-bottom: 1px solid white;
+  height: 400px;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
+
+section img {
+  height: 250px;
+  width: auto;
+  display: block;
+  margin: 20px 20px;
+}
+
+#calc{
+  padding-top: 100px;
+  text-align: center;
+  border-bottom: 1px solid white;
+  height: 400px;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
+
+section img {
+  height: 250px;
+  width: auto;
+  display: block;
+  margin: 20px 20px;
+}
+
+#positivity{
+  padding-top: 100px;
+  text-align: center;
+  border-bottom: 1px solid white;
+  height: 400px;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
+
+section img {
+  height: 250px;
+  width: auto;
+  display: block;
+  margin: 20px 20px;
 }
