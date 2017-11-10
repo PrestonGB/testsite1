@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+header {
+  border-bottom: 1px solid white;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  height: 100px;
+}
+
+header nav {
+  font-size: 20px;
+  color: white;
+}
+
+header img {
+  width: 150px;
+  height: auto;
+}
+
+header a {
+  color: white;
+}
+
+#dopepics {
+  padding-top: 100px;
+  text-align: center;
+}
